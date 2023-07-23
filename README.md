@@ -39,6 +39,8 @@ In this section, we provide images of the arena with racers before the race star
 ### Mid-Race Action
 
 <img width="1193" alt="mid race" src="https://github.com/Daniel-Arvili/Race-Project/assets/116496118/85d5e331-0b48-4c7e-9216-38becd9ffd66">
+This image captures the thrilling mid-race action as the racers compete fiercely to gain the lead. You can see the racers in full motion, vying for the top positions.
+
 
 ### Race Results
 
